@@ -4,10 +4,10 @@
 - ⭐ Estudante de desenvolvimento front-end
 <div>
 <a href="https://github.com/aamoorim/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=aamoorim&theme=radical" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=aamoorim&theme=radical" />
 </a>
 <a href="https://github.com/aamoorim">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aamoorim&layout=compact&langs_count=8&card_width=320&theme=radical" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aamoorim&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 </div>
 
