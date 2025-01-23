@@ -1,6 +1,6 @@
 ## Opa! Tudo bem? Eu sou a Mariana Amorim!
 - 🧸 Tenho 17 anos
-- 🍓 Caminhando para o 3º ano do Ensino Médio 
+- 🍓 Estudante do 3º ano do Ensino Médio 
 - ⭐ Estudante de desenvolvimento front-end
 <div>
 <a href="https://github.com/aamoorim/github-readme-stats">
