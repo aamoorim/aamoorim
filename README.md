@@ -1,5 +1,5 @@
 ## Opa! Tudo bem? Eu sou a Mariana Amorim!
-- 🧸 Tenho 16 anos (quase 17)
+- 🧸 Tenho 17 anos
 - 🍓 Caminhando para o 3º ano do Ensino Médio 
 - ⭐ Estudante de desenvolvimento front-end
 <div>
