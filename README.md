@@ -1,7 +1,7 @@
 ## Opa! Tudo bem? Eu sou a Mariana Amorim!
-- 🧸 Tenho 17 anos
-- 🍓 Estudante do 3º ano do Ensino Médio 
-- ⭐ Estudante de desenvolvimento front-end
+- 🧸 Tenho 18 anos
+- 🍓 Estudante do primeiro período de Análise e Desenvolvimento de Sistemas
+- ⭐ Analista de Sistemas Jr.
 <div>
 <a href="https://github.com/aamoorim/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=aamoorim&theme=radical" />
