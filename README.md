@@ -2,14 +2,6 @@
 - 🧸 Tenho 18 anos
 - 🍓 Estudante do primeiro período de Análise e Desenvolvimento de Sistemas
 - ⭐ Analista de Sistemas Jr.
-<div>
-<a href="https://github.com/aamoorim/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=aamoorim&theme=radical" />
-</a>
-<a href="https://github.com/aamoorim">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aamoorim&layout=compact&langs_count=8&card_width=320&theme=radical" />
-</a>
-</div>
 
 <div style="display: inline_block"><br>
    <img align="right" alt="Mari-GIF" src="https://media.discordapp.net/attachments/722154630938755072/1319706142032662630/githubgif.gif?ex=6766ef9f&is=67659e1f&hm=66da382f5f69c531a2af52d5078c68145969d77629704d0ca4b5af4e50c6531c&=&width=120&height=120">
