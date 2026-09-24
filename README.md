@@ -1,6 +1,6 @@
 ## Opa! Tudo bem? Eu sou a Mariana Amorim!
 - 🧸 Tenho 18 anos
-- 🍓 Estudante do primeiro período de Análise e Desenvolvimento de Sistemas
+- 🍓 Estudante do segundo período de Análise e Desenvolvimento de Sistemas
 - ⭐ Analista de Sistemas Jr.
 
 <div style="display: inline_block"><br>
